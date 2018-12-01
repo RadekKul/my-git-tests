@@ -82,4 +82,4 @@ hs_err_pid*
 /mygittest.iml
 /.idea/vcs.xml
 /.idea
-/target
+/target/
